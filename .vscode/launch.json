@@ -9,7 +9,7 @@
             "request": "launch",
             "type": "chrome",
             "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}/C:/Users/Razvan/GitHub/clone-nftgco/wp-content/themes/zarnavtheme/index.php"
+            "webRoot": "${workspaceFolder}/index.php"
         },
         {
             "name": "Listen for Xdebug",
